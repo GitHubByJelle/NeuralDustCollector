@@ -10,7 +10,6 @@ in different rooms using a neural network.
 
 """
 
-
 from Simulation.simulation import simulate_auto
 from Robot.obstacle import Obstacle
 from Robot.robot import Robot
