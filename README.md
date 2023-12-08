@@ -12,6 +12,8 @@ For AI functionality, the code leverages the following techniques/algorithms:
 
 Everything major is implemented ourselfs, including circular robot movement, obstacles, collision detections, etc.
 
+The robot implementation utilized in this project is closely tied to the one employed in my other project, '[Robot-Localization-Analysis](https://github.com/GitHubByJelle/Robot-Localization-Analysis).'
+
 ## How to use
 First install the requirements.txt
 ```bash
